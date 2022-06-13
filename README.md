@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
+  - [Body Mass Index (BMI](https://github.com/itsdmitrii/body_mass_index)
   - [Name Generator](https://github.com/itsdmitrii/name_generator.git)
   - [Life In Weeks](https://github.com/itsdmitrii/life_in_weeks_project.git)
   - [Tip Calculator](https://github.com/itsdmitrii/tip_calculator.git)
