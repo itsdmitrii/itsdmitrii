@@ -3,6 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
+  - [Password Generator](https://github.com/itsdmitrii/body_mass_index)
+  - [Rock Paper Scissors Game](https://github.com/itsdmitrii/game_rock_paper_scissors)
+  - [Land on Mars - Multiple-Choice Game](https://github.com/itsdmitrii/land_on_mars)
+  - [Rollercoaster Price Calculator](https://github.com/itsdmitrii/rollercoaster_price_calculator)
   - [Body Mass Index (BMI)](https://github.com/itsdmitrii/body_mass_index)
   - [Name Generator](https://github.com/itsdmitrii/name_generator.git)
   - [Life In Weeks](https://github.com/itsdmitrii/life_in_weeks_project.git)
