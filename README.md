@@ -3,7 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Password Generator](https://github.com/itsdmitrii/body_mass_index)
+  - [Average Height
+](https://github.com/itsdmitrii/average_height)
+  - [FizzBuzz](https://github.com/itsdmitrii/fizz_buzz)
+  - [Password Generator](https://github.com/itsdmitrii/password_generator_project)
   - [Rock Paper Scissors Game](https://github.com/itsdmitrii/game_rock_paper_scissors)
   - [Land on Mars - Multiple-Choice Game](https://github.com/itsdmitrii/land_on_mars)
   - [Rollercoaster Price Calculator](https://github.com/itsdmitrii/rollercoaster_price_calculator)
