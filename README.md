@@ -3,6 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
+  - [Weather API
+](https://github.com/itsdmitrii/weather_api.git)
   - [Average Height
 ](https://github.com/itsdmitrii/average_height)
   - [FizzBuzz](https://github.com/itsdmitrii/fizz_buzz)
