@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
+  - [Hang Man Game](https://github.com/itsdmitrii/hangman_game.git)
   - [Weather API
 ](https://github.com/itsdmitrii/weather_api.git)
   - [Average Height
