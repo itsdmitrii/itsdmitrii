@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Caesar_Cipher_encrypt-decrypt-program](https://github.com/itsdmitrii/Caesar_Cipher_encrypt-decrypt-program.git)
+  - [Caesar_Cipher Encrypt & Decrypt Program](https://github.com/itsdmitrii/Caesar_Cipher_encrypt-decrypt-program.git)
   - [Hang Man Game](https://github.com/itsdmitrii/hangman_game.git)
   - [Weather API
 ](https://github.com/itsdmitrii/weather_api.git)
