@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
+  - [Auction Program](https://github.com/itsdmitrii/auction_program.git)
   - [Encrypt & Decrypt Program](https://github.com/itsdmitrii/Caesar_Cipher_encrypt-decrypt-program.git)
   - [Hang Man Game](https://github.com/itsdmitrii/hangman_game.git)
   - [Weather API
