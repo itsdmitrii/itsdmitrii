@@ -26,6 +26,7 @@
 - [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/ru/certification/certified-solutions-architect-associate/)
 
 <h2> 🤳 Connect with me:</h2>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" 
 
 [<img align="left" alt="DmitriiDorogov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
