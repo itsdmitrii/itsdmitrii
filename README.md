@@ -2,17 +2,19 @@
 <br>
 I’m a Data Analyst based in San Diego, California. Skilled in SQL, Python, Excel and BI Tools for Data Visualization such as Tableau and Power BI. Take a look at my recent work.
 <h2>👨‍💻 My Latest Proects: </h2>
-- <b>Python</b>
+
+- <b>SQL</b>
+  - [Calculator](https://github.com/itsdmitrii/Calculator)
+  - [Auction Program](https://github.com/itsdmitrii/auction_program.git)
+
 
 - <b>Python</b>
   - [Calculator](https://github.com/itsdmitrii/Calculator)
   - [Auction Program](https://github.com/itsdmitrii/auction_program.git)
   - [Encrypt & Decrypt Program](https://github.com/itsdmitrii/Caesar_Cipher_encrypt-decrypt-program.git)
   - [Hang Man Game](https://github.com/itsdmitrii/hangman_game.git)
-  - [Weather API
-](https://github.com/itsdmitrii/weather_api.git)
-  - [Average Height
-](https://github.com/itsdmitrii/average_height)
+  - [Weather API](https://github.com/itsdmitrii/weather_api.git)
+  - [Average Height](https://github.com/itsdmitrii/average_height)
   - [FizzBuzz](https://github.com/itsdmitrii/fizz_buzz)
   - [Password Generator](https://github.com/itsdmitrii/password_generator_project)
   - [Rock Paper Scissors Game](https://github.com/itsdmitrii/game_rock_paper_scissors)
