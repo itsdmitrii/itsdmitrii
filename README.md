@@ -1,8 +1,8 @@
 <h1>Hi, I'm Dmitrii!</h1>
 <br>
-I’m a Data Analyst based in San Diego, California. Skilled in SQL, Python, Excel and BI Tools for Data Visualization such as Tableau and Power BI.
-
-<h2>👨‍💻 My Latest Proects on Python: </h2>
+I’m a Data Analyst based in San Diego, California. Skilled in SQL, Python, Excel and BI Tools for Data Visualization such as Tableau and Power BI. Take a look at my recent work.
+<h2>👨‍💻 My Latest Proects: </h2>
+- <b>Python</b>
 
 - <b>Python</b>
   - [Calculator](https://github.com/itsdmitrii/Calculator)
