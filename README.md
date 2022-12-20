@@ -4,7 +4,7 @@ I’m a Data Analyst based in San Diego, California. Skilled in SQL, Python, Exc
 <h2>👨‍💻 My Latest Proects: </h2>
 
 - <b>SQL</b>
-  - [Calculator](https://github.com/itsdmitrii/Calculator)
+  - [COVID Portfolio Project - Data Exploration](https://github.com/itsdmitrii/covid-data-exploration/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql)
   - [Auction Program](https://github.com/itsdmitrii/auction_program.git)
 
 
