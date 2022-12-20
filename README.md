@@ -27,7 +27,8 @@ I’m a Data Analyst based in San Diego, California. Skilled in SQL, Python, Exc
 
 <h2>📄 Certifications</h2>
 
-- [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/ru/certification/certified-solutions-architect-associate/)
+-  [The Complete SQL Bootcamp 2022](https://www.udemy.com/certificate/UC-af08fc30-ddf4-48c8-a150-4d1ba53477c5/)
+-  [AWS Certified Solutions Architect – Associate (In progress).](https://aws.amazon.com/ru/certification/certified-solutions-architect-associate/)
 
 <h2> 🤳 Connect with me:</h2>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" 
