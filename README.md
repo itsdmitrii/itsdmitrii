@@ -8,16 +8,15 @@ I’m a Data Analyst based in San Diego, California. Skilled in SQL, Python, Exc
 
 
 - <b>Python</b>
-  - [Black Jack Game](https://github.com/itsdmitrii/blackjack_game)
-  - [Auction Program](https://github.com/itsdmitrii/auction_program.git)
+  - [BlackJack Game](https://github.com/itsdmitrii/blackjack_game)
+  - [Body Mass Index (BMI)](https://github.com/itsdmitrii/body_mass_index)
   - [Encrypt & Decrypt Program](https://github.com/itsdmitrii/Caesar_Cipher_encrypt-decrypt-program.git)
   - [Hang Man Game](https://github.com/itsdmitrii/hangman_game.git)
   - [Weather API](https://github.com/itsdmitrii/weather_api.git)
-  - [Average Height](https://github.com/itsdmitrii/average_height)
   - [FizzBuzz](https://github.com/itsdmitrii/fizz_buzz)
   - [Rock Paper Scissors Game](https://github.com/itsdmitrii/game_rock_paper_scissors)
   - [Land on Mars - Multiple-Choice Game](https://github.com/itsdmitrii/land_on_mars)
-  - [Body Mass Index (BMI)](https://github.com/itsdmitrii/body_mass_index)
+  - [Auction Program](https://github.com/itsdmitrii/auction_program.git)
   - [Life In Weeks](https://github.com/itsdmitrii/life_in_weeks_project.git)
 
 
