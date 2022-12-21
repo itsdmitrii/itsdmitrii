@@ -8,7 +8,7 @@ I’m a Data Analyst based in San Diego, California. Skilled in SQL, Python, Exc
 
 
 - <b>Python</b>
-  - [Calculator](https://github.com/itsdmitrii/Calculator)
+  - [Black Jack Game](https://github.com/itsdmitrii/blackjack_game)
   - [Auction Program](https://github.com/itsdmitrii/auction_program.git)
   - [Encrypt & Decrypt Program](https://github.com/itsdmitrii/Caesar_Cipher_encrypt-decrypt-program.git)
   - [Hang Man Game](https://github.com/itsdmitrii/hangman_game.git)
